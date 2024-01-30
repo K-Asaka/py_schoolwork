@@ -24,6 +24,5 @@
 ##### ファイル読み込みのサンプルコード ※ファイルから読み込んだ内容は変数dataに保存されます
 with open('ファイル名', 'r', encoding='UTF-8') as file:
     data = file.read()
-#####
 
 

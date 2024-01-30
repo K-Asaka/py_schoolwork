@@ -19,5 +19,5 @@ Anacondaの場合は「conda」コマンド、Pythonをインストールして�
 import matplotlib.pyplot as plt
 plt.plot([ 1,2,3 ]) # グラフ生成
 plt.show()          # グラフ作成の後に呼び出すことでグラフを出力
-#####
+
 
